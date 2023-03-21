@@ -1,7 +1,7 @@
 'use strict'
 
 function holaMundo(texto){
-    var hola_mundo = "Texto dentro de funcion";
+    var hola_mundo = "Texto dentro de funcion"; //HOLA
 
     console.log(texto);
     console.log(numero.toString());
