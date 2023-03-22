@@ -31,7 +31,7 @@ boton.addEventListener('mouseover',function(){
 boton.addEventListener('mouseout',function(){
     boton.style.background="yellow";
 });
-
+//Eventos del area de texto
 //Focus
 var input = document.querySelector("#campo_nombre");
 
