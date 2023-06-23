@@ -1,0 +1,1 @@
+console.log(document.querySelector('div:nth-child(2)'));
